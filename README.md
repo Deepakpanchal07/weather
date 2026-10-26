@@ -5,7 +5,7 @@ A weather application built with **Flutter** and a **Node.js/Express.js backend*
 
 ## 🔗 Repository
 
-**GitHub:** [View Source Code]()
+**GitHub:** [View Source Code](https://github.com/Deepakpanchal07/weather)
 ## 📸 Screenshots
 
 ### 1. Weather Home Screen
