@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
   String? errorMessage;
   bool _isCelsius = true;
 
-  static const Color _background = Color(0xFFF5F6FC);
+  // static const Color _background = Color(0xFFF5F6FC);
   static const Color _purple = Color(0xFF6256D9);
   static const Color _darkPurple = Color(0xFF393078);
 
@@ -331,7 +331,7 @@ class _HomePageState extends State<HomePage> {
 
     final hourly = allHours.skip(startIndex).take(8).toList();
     final cardColor = Theme.of(context).colorScheme.surface;
-    final textColor = Theme.of(context).colorScheme.onSurface;
+    // final textColor = Theme.of(context).colorScheme.onSurface;
     final secondaryTextColor = Theme.of(context).colorScheme.onSurfaceVariant;
 
     return Scaffold(
